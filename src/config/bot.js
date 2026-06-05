@@ -27,7 +27,7 @@ export const botConfig = {
         // Text users will see (example: "Playing /help | Titan Bot").
         name: "A loyal guardian bot for XemoChan, always watching over the server with care.",
         // Activity type number (0 = Playing).
-        type: 3, 
+        type: 4, 
       },
     ],
   },
